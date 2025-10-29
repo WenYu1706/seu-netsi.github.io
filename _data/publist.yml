@@ -1,6 +1,22 @@
 
 - id: WHSGXL-TMC25
   year: 2025
+  authors: Baixin Wan, Feng Shan, and Jianping Huang
+  title: "From Docking Station to Docking Station: Completing Tasks in Minimum Time by Cooperative UAV Fleets"
+  pubinfo: "ICPADS 2025, Hefei, China, December 14-18, 2025."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: uavpathplan
+
+- id: WHSGXL-TMC25
+  year: 2025
   authors: 单冯，张雅芬，陈慈媛，程玉莹，熊润群，凌振，罗军舟.
   title: "面向移动信号源追踪的高斯过程时空建模与无人机在线飞行规划算法"
   pubinfo: "计算机学报，录用于2025年7月22日."
